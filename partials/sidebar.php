@@ -38,6 +38,13 @@ if ($_SESSION['role'] == 0) {
                 <span class="menu-title">Shared Folders </span>
             </a>
         </li>
+        <li class="nav-item nav-category">Comment</li->
+        <li class="nav-item">
+            <a class="nav-link" href="comments.php">
+                <i class="bi bi-chat-dots fs-5"></i> &nbsp; &nbsp;
+                <span class="menu-title">Comments </span>
+            </a>
+        </li>
         <li class="nav-item nav-category">Friends</li>
         <li class="nav-item">
             <a class="nav-link" href="new_friend.php">

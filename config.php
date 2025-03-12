@@ -6,6 +6,12 @@ define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_NAME', 'mydb');
 
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "comment_system";
+
 // cpanel 
 // define('DB_SERVER', 'localhost');
 // define('DB_USERNAME', 'robinnarban');
